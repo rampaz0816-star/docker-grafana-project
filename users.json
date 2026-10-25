@@ -1,0 +1,56 @@
+{
+    "users":  [
+                  {
+                      "username":  "Abhi",
+                      "password":  "Abhi@123",
+                      "facilities":  [
+                                         "chennai",
+                                         "kochi",
+                                         "manipur"
+                                     ]
+                  },
+                  {
+                      "username":  "BNY",
+                      "password":  "BNY@123",
+                      "facilities":  [
+                                         "Holland",
+                                         "5"
+                                     ]
+                  },
+                  {
+                      "username":  "sujay",
+                      "password":  "sujay@123",
+                      "facilities":  [
+
+                                     ]
+                  },
+                  {
+                      "username":  "TestGrafana",
+                      "password":  "Test@123",
+                      "facilities":  [
+
+                                     ]
+                  },
+                  {
+                      "username":  "ABC",
+                      "password":  "ABC@123",
+                      "facilities":  [
+                                         "Delhi"
+                                     ]
+                  },
+                  {
+                      "username":  "DEF",
+                      "password":  "DEF@123",
+                      "facilities":  [
+                                         "CHINA"
+                                     ]
+                  },
+                  {
+                      "username":  "Abhi1608",
+                      "password":  "Abhi1",
+                      "facilities":  [
+
+                                     ]
+                  }
+              ]
+}
